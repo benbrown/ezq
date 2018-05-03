@@ -1,3 +1,5 @@
+# EXPERIMENTAL AT BEST
+
 # ezq - a simple but extensible queue interface for node
 
 the goal of this module is to provide a generic interface to queues so that:
